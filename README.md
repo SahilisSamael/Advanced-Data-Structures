@@ -2,7 +2,7 @@
 
 > A subject taught in S.Y.B.Tech (aka. Third Sem.)
 
-> Mentor & in-charge: Prof. Shripad Bhatlawande
+> Mentor & in-charge: ***Prof. Shripad Bhatlawande***
 
 > The subject concerns about the Advanced Programming Stuff.
 
