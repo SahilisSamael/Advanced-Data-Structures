@@ -1,8 +1,11 @@
 # Advanced-Data-Structures
 
 > A subject taught in S.Y.B.Tech (aka. Third Sem.)
+
 > Mentor & in-charge: Prof. Shripad Bhatlawande
+
 > The subject concerns about the Advanced Programming Stuff.
+
 > Preffered Language is ***JAVA***
 
 # ABSTRACT-WRITTING for COURSE-PROJECT: 
