@@ -24,7 +24,7 @@ user the functionality to share the URL with multiple individuals. Our system al
 individual shortened URL by the usage of a short code. It gives the user the control over their generated URLs.
 
 
-# JETIR- 
+# JETIR- Journal of Emerging Technology and Innovative Research
 ### Comparative Analysis of Malicious Detection of Short URLs from Tweets
 
 > Online Social Networks (OSNs) have become fundamental parts of our online lives, and their popularity is increasing at a 
