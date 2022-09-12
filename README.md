@@ -25,7 +25,7 @@
         > we.b: The web of short URLs
 
 ### [JOURNAL-Papers](https://github.com/SahilisSamael/Advanced-Data-Structures/blob/main/AbstractResearchPaper.md)
-        > **IJCRT**: Sukshma - A URL Shortening Service Project
-        > **IJCSMC**: Optimised URL Shortener using Cloud Platform
-        > **JETIR**: Comparative Analysis of Malicious Detection of Short URLs from Tweets
-        > **IRJET**: Web of Short URL’s
+        > **IJCRT** : Sukshma - A URL Shortening Service Project
+        > **IJCSMC** : Optimised URL Shortener using Cloud Platform
+        > **JETIR** : Comparative Analysis of Malicious Detection of Short URLs from Tweets
+        > **IRJET** : Web of Short URL’s
