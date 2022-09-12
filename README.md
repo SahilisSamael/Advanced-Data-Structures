@@ -10,7 +10,9 @@
 
 # ABSTRACT-WRITTING for COURSE-PROJECT: 
 
-### [IEEE-Papers](https://github.com/SahilisSamael/Advanced-Data-Structures/blob/main/AbstractResearchPaper.md)
+### [RESEARCH-Papers](https://github.com/SahilisSamael/Advanced-Data-Structures/blob/main/AbstractResearchPaper.md)
+***IEEE***
+
         > Spring Boot based REST API to Improve Data Quality Report Generation for Big Scientific Data: ARM Data Center Example
         > Dynamic Information Flow Control Architecture for Web Applications
         > Design of a Real-Time SQL Engine in the Distributed Environment
@@ -23,6 +25,13 @@
         > Proposing a Secure URL Shortening Service by using Blackboard Architecture
         > Click Traffic Analysis of Short URL Spam on Twitter (Invited Paper
         > we.b: The web of short URLs
+        
+***SPRINGER***      
+
+        > Analyzing Security Risks of Ad-Based URL Shortening Services Caused by Users’ Behaviors
+        > Secure Short URL Generation Method that Recognizes Risk of Target URL
+        > Spam Detection in Link Shortening Web Services Through Social Network Data Analysis
+        > Incremental Mining of Significant URLs in Real-Time and Large-Scale Social Streams
 
 ### [JOURNAL-Papers](https://github.com/SahilisSamael/Advanced-Data-Structures/blob/main/AbstractResearchPaper.md)
         > **IJCRT** : Sukshma - A URL Shortening Service Project
