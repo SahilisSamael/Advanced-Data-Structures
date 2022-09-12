@@ -1,6 +1,11 @@
 # Advanced-Data-Structures
 
-# ABSTRACT WRITING
+> A subject taught in S.Y.B.Tech (aka. Third Sem.)
+> Mentor & in-charge: Prof. Shripad Bhatlawande
+> The subject concerns about the Advanced Programming Stuff.
+> Preffered Language is ***JAVA***
+
+# ABSTRACT-WRITTING for COURSE-PROJECT: 
 
 ### [IEEE-Papers](https://github.com/SahilisSamael/Advanced-Data-Structures/blob/main/AbstractResearchPaper.md)
         > Spring Boot based REST API to Improve Data Quality Report Generation for Big Scientific Data: ARM Data Center Example
