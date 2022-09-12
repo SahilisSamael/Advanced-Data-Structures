@@ -2,7 +2,7 @@
 
 # ABSTRACT WRITING
 
-### IEEE-Papers
+### [IEEE-Papers](https://github.com/SahilisSamael/Advanced-Data-Structures/blob/main/AbstractResearchPaper.md)
         > Spring Boot based REST API to Improve Data Quality Report Generation for Big Scientific Data: ARM Data Center Example
         > Dynamic Information Flow Control Architecture for Web Applications
         > Design of a Real-Time SQL Engine in the Distributed Environment
@@ -16,7 +16,7 @@
         > Click Traffic Analysis of Short URL Spam on Twitter (Invited Paper
         > we.b: The web of short URLs
 
-### JOURNAL-Papers
+### [JOURNAL-Papers](https://github.com/SahilisSamael/Advanced-Data-Structures/blob/main/AbstractResearchPaper.md)
         > IJCRT: Sukshma - A URL Shortening Service Project
         > IJCSMC: Optimised URL Shortener using Cloud Platform
         > JETIR: Comparative Analysis of Malicious Detection of Short URLs from Tweets
