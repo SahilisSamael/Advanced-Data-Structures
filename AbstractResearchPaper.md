@@ -11,7 +11,7 @@
 
 
 ### Design of a Real-Time SQL Engine in the Distributed Environment
-
+> Real-time database research has reached a point when a practical approach need to be found to combine academic research fruits with real world problems. It is generally believed that the transaction scheduling principles of the traditional database management is too strin gent to meet real-time constraints. In this paper, we look at the real world problem and argue that the future will see the proliferation of fed erated database consisting of distributed heterogeneous subdatabases. We propose the similarity predicate to unify real-time constraints on ap plications of the federated database system. We then design a real-time SQL engine that sits between the distributed database and the applica tions that separates the database design from individual user application. The real-time part of the engine benefits from SQL standard and can be scaled from empty to very sophisticated.
 
 
 ### bit.ly/malicious: Deep Dive into Short URL based e-Crime Detection
