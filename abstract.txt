@@ -1,0 +1,41 @@
+RESEARCH PAPERS:
+
+1. IJCRT
+    URLs appear to be long, unattractive, on most of the social platforms. They often get broken when shared on different platforms. Short URLs can come in handy during digital marketing, social campaigning, and posting by giving the stats of the number of clicks a shortened URL gets.
+    URL Shortening is a service that gives the user access to shortened URLs. The advantages of using a URL shortening service include attractiveness to the URL, ease of sharing on different platforms, and ease of maintaining as we are having a shorter version of URL, etc.
+    
+2. IJCSMC
+    Short URLs are especially popular in social networking services such as Twitter. This is largely due to Twitter's restriction on message length to 140 characters. The generated URL has to be one third the size of a given urllibre, and can be shared between multiple users.
+    We have gone over multiple designs, approaches and came up with set of. configurations that takes care of the Encoding, Database Cleanup, Caching and Security. We have presented a large-scale study of URL shortening services by exploring traces both from within and outside the web.
+    
+3. JETIR
+    Attackers use shortened URLs to hide malicious URLs, which direct users to malicious pages. Researchers have developed a machine learning classifier which detect malicious short URL’s.
+    The results of Naive Bayes classifier is best among J48, AdaboostM1 and compare to Virus Total. Many short URLs redirect the URLs to malicious content. We can develop a system which will connected to network, by which the coming short URL will be automatically scanned.
+    
+4. IRJET
+  Short URL services are replacing long URLs with shorter ones and redirecting them to the user's browser. The study is based on a large-scale crawl of URL shortening services for social networking sites such as Twitter using a crawler for short URL senders.
+  We have presented a large-scale study of URL shortening services. We explored their distribution channels, their user community and their popularity, as well as their lifetime and access patterns. Short URLs show a high space gain in terms of bytes used, but an increased overhead in web page transfer times.
+  
+
+
+1. 
+  Spring Boot is a java-based framework for building web and enterprise applications. Spring Boot makes it easy to create and deploy stand-alone, production-grade Spring applications with very little configuration. Using Spring Boot, scientists at Oak Ridge National Laboratory are using it to create a REST-based service API.
+  Spring Boot is a java-based framework for building web and enterprise applications. Scientists at Oak Ridge National Laboratory are using it to create a REST-based service API. Spring Boot makes it easy to create and deploy stand-alone, production-grade Spring applications with very little configuration.
+  
+2. 
+  In Web applications, the access control at the database management system is not effective due to the dependency on application behavior. DIFCA-J allows controlling the information flow at run-time, without modifying the source code of the target application or Java VMs.
+  DIFCA-J enforces the language-based information flow control policies for Java applications. DIFCA-J tracks the propagation of information in the program through most of the JVM instructions. It controls the input and output to the external environment based on the given information flow policies.
+  
+
+3. 
+  Real-time database research has reached a p oint when a practical approach need to be found to combine academic research with real world problems. In this pap er, we argue that the future will see the proliferation of fed- erated database consisting of distributed heterogeneous sub databases.
+  36 D. Chen and A.K. Mok:. The engine separates the data from the applications b etween the federated database and the applications gices us extra advantage. Powerful similarity predicate.  The real-time similarity predicate can expressalmost every real-time constraints, including p erio dic requirement.  Through this engine, the evolution fromconventional database to real-time aware database can b e done smo othly.
+  n this pap er we analyzed the challenges faced in the database practices.  As the data numb er and data size keeps growing, the distributed het-erogeneous database is inevitable. This trend contradicts our wish in real-time  research that prefers centralized controlling of all data. We plan to investigate more on the nature of the similarity predicate.  The real-time SQL engine provides a practical and progressive way to address the real-time requirement in the distributed environment.
+4. 
+  Existence of spam URLs over emails and Online Social Media (OSM) has become a massive e-crime.  Short URL shorteners have become a prime target for the attackers giving them an advantage to conceal maliciouscontent. The concept of URL shortening has gained a lot of traction and is being exploited by phishing attacks, work-from-home scams, pornographic content propagation, etc. This puts additional performance pressure on Bitly and other URL shorteners to be able to detect and take a timely action against the illegitimate content. We analyzed a dataset of  short URLs marked suspicious by Bitly in the month of October 2013.Our results reveal that Bitly is not using its spam detection services very effectively. Thisimposes additional performance pressure on Bitly and other URLshorteners to be able to detect and take a timely action against the illegitimate content.  To counterthe dissemination of long complex URLs in emails and character limit imposed on various OSM (like Twitter), the concept of URLshortening has gained a lot of traction. 
+  We found that spammers exploit Bitly's policy of not imposing a cap on the number of con-nected Facebook / Twitter accounts. About 16 percent malicious users in our dataset shortened only suspicious links in their history without being noticed. Bitly could not effectively detect malicious URLs already detected by APWG and VirusTotal. We also observed a lack of  effectiveness in using the claimed detection services (SURBL) by Bitly. Other short URL services also provide similar user and link metrics as used in our study.
+  
+5.
+  An open source embedded database is widely used in the data management of embedded environment, such as mobile phone, PDA, industrial control, etc. In this study, we present an application of SQLite in embedded system that is based on ARM and Windows CE 5.0.embedded system.
+  
+  
