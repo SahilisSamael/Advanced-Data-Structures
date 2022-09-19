@@ -1,0 +1,147 @@
+RESEARCH PAPERS:
+
+1. IJCRT
+Sukshma - A URL Shortening Service Project
+
+    URLs appear to be long, unattractive, on most of the social platforms. They often get broken when shared on different platforms. Short URLs can come in handy during digital marketing, social campaigning, and posting by giving the stats of the number of clicks a shortened URL gets.
+    URL Shortening is a service that gives the user access to shortened URLs. The advantages of using a URL shortening service include attractiveness to the URL, ease of sharing on different platforms, and ease of maintaining as we are having a shorter version of URL, etc.
+    
+2. IJCSMC
+Optimised URL Shortener using Cloud Platform
+
+    Short URLs are especially popular in social networking services such as Twitter. This is largely due to Twitter's restriction on message length to 140 characters. The generated URL has to be one third the size of a given urllibre, and can be shared between multiple users.
+    We have gone over multiple designs, approaches and came up with set of. configurations that takes care of the Encoding, Database Cleanup, Caching and Security. We have presented a large-scale study of URL shortening services by exploring traces both from within and outside the web.
+    
+3. JETIR
+    Comparative Analysis of Malicious Detection of Short URLs from Tweets
+    Attackers use shortened URLs to hide malicious URLs, which direct users to malicious pages. Researchers have developed a machine learning classifier which detect malicious short URL’s.
+    The results of Naive Bayes classifier is best among J48, AdaboostM1 and compare to Virus Total. Many short URLs redirect the URLs to malicious content. We can develop a system which will connected to network, by which the coming short URL will be automatically scanned.
+    
+4. IRJET
+    Web of Short URL’s
+
+  Short URL services are replacing long URLs with shorter ones and redirecting them to the user's browser. The study is based on a large-scale crawl of URL shortening services for social networking sites such as Twitter using a crawler for short URL senders.
+  We have presented a large-scale study of URL shortening services. We explored their distribution channels, their user community and their popularity, as well as their lifetime and access patterns. Short URLs show a high space gain in terms of bytes used, but an increased overhead in web page transfer times.
+ 
+
+IEEE PAPER
+
+1. bit.ly/malicious: Deep Dive into Short URL based e-Crime Detection
+
+    URL shorteners have become a prime target for attackers as they give them an advantage to conceal malicious content. Bitly, a leading service among all URL shortening services, is being exploited heavily to carry out phishing attacks, work-from-home scams, pornographic content propagation, etc.
+    URL shortening is a growing trend in Online Social Media (OSM) where users compress their long URLs using URL shortening services such as bit.ly andngoo.gl.Bitly, launched in year 2008 is one of the most popular URL shortening services on the web. It gained major attention when Twitter started to use it as a default URL-shortener. With 1 billion new links shortened on Bitly every day and 6 billion clicks each month, spammers have been exploiting the service.
+    We found that spammers exploit Bitly's policy of not imposing a cap on the number of connected Facebook / Twitter accounts. Our classifier predicted malicious links with the best accuracy of 80.40% on a mix dataset of clicked and non-clicked links. We identified features from Bitly and coupled them with domain specific features to classify a Bitly URL as malicious or benign.
+    
+    
+2. Security-Enhanced Callback URL Service in Mobile Device
+
+    Callback URL is a technology that makes a user to connect specific URL in the mobile Internet by pushing a connection button. It reduces the burden for the user to input a URL which the user wishes to visit. We propose a message and protocol for the traditional SMS, long SMS, and MMS.
+    The number of mobile phone users in the world passed two billion marks at the end of 2005. SMS (Short Message Service) is an Instant Messaging type of communications service. Businesses can use any number of instant-message techniques to communicate directly with customers and vendors. We have developed a mobile user agreement service which is based on Callback URL. However we could not consider the integrity of Callback URLs. It should be guaranteed that the trustful entity sends the SMS with CallbackURL. Also the user should make his/her response at a proper security level.
+    In this paper, we propose several methods for the real-time user agreement service in mobile devices using secure SMS. We mention three methods to enhance the security in the traditional SMS, the long SMS, and the MMS. And we will analyze each method and analyze how best to implement it.
+    
+    
+3. Using URL Shorteners to Compare Phishing and Malware Attacks     
+
+    We have collected over 7,000 malicious short URLs categorized as phishing or malware for the 2 year period covering 2016 and 2017. We find that phishing attacks have higher click through rate with shorter timespan.
+    Little research has looked at the same questions for malware websites. This may be because the data needed to perform an analysis is hard to come by. We find that phishing attacks are most active 4 hours before the reported date, while malware attacks are active 4 days before. 50% of malware URLs last for.several years, while less than half of phishing URLs are active.past 3 months. This is the first analysis of the life cycle of malware URLs with respect to timespan and number of visitors, that is not limited to a single Enterprise or University. From our analysis of short URLs, we also find that Twitter spam click activity has remained consistent since 2010.
+        Phishing and malware attacks are different in terms of click through traffic, with phishing URLs receiving more clicks and malware URLs receiving less. Phishing URLs have a longer timespan than malware URLs, where 50% of malware URLs are active for several years while less than 20% of phishing URL are active past 3 months. Twitter is the source of only 0.25% of clicks for phishing vs 4.6% for malware. U.S. was the top referrer for both phishing and malware, with similar click percentages. Scandinavian countries have higher click-percentage for malware than phishing.
+        
+        
+4. Secure Short URL Generation Method that Recognizes Risk of Target URL        
+
+    Short URL is a form of URL that conveys information and makes it possible to access the page with necessary information. Short URL information is difficult to predict the original URL, it has the vulnerability to Phishing attacks. The service provider monitors the risk of target URL page of the generated short URL and decides whether to provide service.
+    The short URL is a way to send or share data or information on the Internet. It transforms a long URL into a short URL so that it can be transmitted easily. Short URLs can be used by attackers to send out malicious codes or make users download them. The attacker either posts a short URL with a rickrolling article or sends an email or SMS with the short URL in order for the users to click the link. More evolved attacks using email or malicious code via social engineering hacking could come out as a form of image or video.
+    With domain, anyone can use short URL service. The vulnerability of the short URL is that one is not able to figure out the target URL. When clicking on an accessible link to Internet through Twitter or SMS, if checking whether it is a credible short URL or not is made in advance.
+    
+    
+5. You Look Suspicious!! : Leveraging Visible Attributes to Classify Malicious Short URLs on Twitter
+
+    Twitter is one of the most popular Online Social  Networks (OSN) It is used by millions of users worldwide everyday. URL (Uniform  Resource Locator) shortening services are widely used. Shortened URLs are not free from risks as users have no idea where to go.
+    Twitter is a very popular micro-blogging Online  Social Network (OSN) where people post short, 140 character, tweets. URL shortening services are widely used to save text space on Twitter. Due to this, it is easy for cyber criminals to hide malicious URLs behind shortened URLs. URL shortening services were introduced in 2001, but adoption was very low until social networks adopted them. Short URLs have been used for phishing attacks, spamming, scams, malware  propagation, etc. Cyber criminals use short URLs to exploit Twitter's limited text space and hide their activities.
+    The experiment using a random forest algorithm showed promising results in classifying with minimum error. Since we used the APIs from PhishTank and VirusTotal for labeling the data, data collection is limited by the API lookup rate. This may be due to genuine users posting malicious short URLs without knowledge or because of compromised accounts.
+    Every organization, including e-commerce, e-Government, and financial institutions can fall victim of such attacks. Our approach is completely based on the data collected from social networks. We tested our approach using four machine learning algorithms and achieved an accuracy of up to 97% using random forest algorithm.
+    
+    
+6. Operators Matching In Dynamic Data Flow Architectures
+
+    Data Flow systems are systems driven by data. effectively using natural parallelism rising processing of large amounts of data. Speed of dynamic flow system depends on used interconnection network, suitability of parallel architecture usage and also on control  of operands matching process.
+    Data Flow architecture allows to use natural program parallelism and shorten time demanded for computation. It get out dead points problem, which occurs in multiprocessor systems based on von Neumann principle. DF architecture critics see its leaks in redundant data structure processing and in  token marking.
+    A demand for a simulation tool for DF-KPI (being developed by the Department of Computer and Informatics) system has been recognized. Simulations are to be perfonned on the level of interconnection network (matching memory and  tables) as well as on the entire system.
+    
+    
+7. Proposing a Secure URL Shortening Service by using Blackboard Architecture    
+
+   We have proposed a secure URL shortening service which will take a long Web address and create a shorter address that will not break in an e-mail posting. The service uses the Blackboard architecture which is maintained by Al Rafidain University College, Riyadh, Saudi Arabia.
+   In this paper we propose a secure URL shortening service. Shortened links can be redirected to advertising websites and/or websites containing malware. Hackers could easily create a fake web site at a URL such as: http://www.attackersite.com/fake/mybank/support.
+   Proposed secure URL shortening service will give the user more trust to use the service with security, availability, and confidentiality consideration. Service will replace the entire URL with a new short URL which has no relation between the two. The user can choose his/her own secret key and change it when needed.
+   
+   
+8. Click Traffic Analysis of Short URL Spam on Twitter   
+
+    Short URL shorteners have become the norm for sharing URLs on Twitter, but they are also used by spammers to hide their spam URLs. The researchers studied over 600,000 short URLs from Twitter and retrieved their click traffic data from Bitly. They determined the top click sources for both spam and non-spam short URLs.
+    URL shorteners have become the de facto method to share links on Twitter. The popular URL shortener websites such as Bit.ly provide interfaces that allow users to convert long URLs into short URLs. In this paper, we aim to determine the feasibility of efficiently collecting the click traffic of short URLs. This is important because a social network typically contains a massive number of short URLs and an efficient mechanism is needed to collect their traffic. Spam can lead to loss and damage [15, 16].
+    We conducted the first large-scale experimental study of short URL spam through creator and click source analysis on the Bitly dataset. We found that the majority of the clicks are from direct sources such as email clients and that the spammers utilize popular websites such as Facebook to attract attention.
+    
+    
+9. we.b: The web of short URLs
+
+    Short URLs have seen a significant increase in usage over the past years, mostly due to Twitter's restriction of message length to 140 characters. Our study is based on traces of short URLs as seen from two perspectives: collected through a large-scale crawl of URL shortening services and by crawling Twitter mesages.
+    URL shortening services provide their users with a smaller equivalent of any provided long URL, and redirect subsequent visitors to the intended source. Short URL accesses represent a small fraction of the "web hits" a site receives, but they are rapidly increasing by as much as 10% per month.
+    A team of researchers have presented a large-scale study of URL shortening services by exploring traces both from the services themselves and from one of the largest pools of short URLs, namely the Twitter social network (http://www.Twitter.com/tags/shortURLs).
+    
+    
+    
+    
+
+SPRINGER
+
+
+ ICCCE 2020 - Proceedings of the 3rd International Conference on Communications and Cyber Physical Engineering
+
+1. Phishing URL Detection Using Machine Learning Techniques
+    A criminal act performed online by impersonating others to obtain confidential data like passwords, banking details, login credentials, etc., is known as phishing. Detecting such websites in real-time, is a complex and dynamic problem. This work focuses on identifying the important features that distinguish between phishing URLs and legitimate URLs.
+       
+2. Everything Is in the Name – A URL Based Approach for Phishing Detection
+    Phishing attack is one of the most common threat to cybersecurity. Most modern web browsers counter phishing attacks using a blacklist of confirmed phishing URLs. Machine learning based techniques rely on features extracted from URL (e.g., URL length and bag-of-words).
+    
+    
+ Intelligent Agents and Multi-Agent Systems - 7th Pacific Rim International Workshop on Multi-Agents, PRIMA 2004, Auckland, New Zealand, August 8-13, 2004, Revised Selected Papers
+
+3. Agent-Based System for Confirming User Appointment Through SMS Callback URL Push
+    M-services, the services through mobile devices, are thriving with plausible applications. This work presents building an agent-based system for confirming user appointment through Callback URL. It is using SMS on the mobile phone in order to reduce the rate of failing appointment and the loss from such failures.
+    This paper presents the building agent-based system used to confirm user appointment through SMS (Short Message Service) Call- back URL Push. WAP (Wireless Applica- tion Protocol) Push is presented as a way of implementing SMS Callback URL. The domestic population of mobile phone users exceeds 30,000,000 people and it is still on the rise.
+    
+  
+ Advances in Decision Sciences, Image Processing, Security and Computer Vision - International Conference on Emerging Trends in Engineering (ICETE), Vol. 2
+
+4. A Study of Malicious URL Detection Using Machine Learning and Heuristic Approaches   
+    Malicious URL is a typical and genuine threat to cybersecurity. Innocent users visit such web sites move toward becoming casualties of various sorts of scams, including monetary loss and theft of private information. In this paper we examine different techniques for detecting malicious URL and discuss each and every technique their merits and demerits.
+
+
+ Advances in Information Retrieval - 35th European Conference on IR Research, ECIR 2013, Moscow, Russia, March 24-27, 2013, Proceedings
+ 
+5. URL Redirection Accounting for Improving Link-Based Ranking Methods
+    Traditional link-based web ranking algorithms are applied to web snapshots in the form of webgraphs. Researchers do not pay attention to a particular method of how links are taken into account. Small subgraphs of the webgraph can be used for more efficient evaluation of new algorithms.
+    
+
+ Web Information Systems Engineering – WISE 2013 Workshops - WISE 2013 International Workshops BigWebData, MBC, PCS, STeH, QUAT, SCEH, and STSC 2013, Nanjing, China, October 13-15, 2013, Revised Selected Papers
+
+6. Understanding User Behavior through URL Analysis in Sina Tweets
+    Paper aims to analyze URLs in Sina tweets, the largest Chinese Twitter, to facilitate the understanding of the user's behavior. By observing the content and publishing time of these users, we classify users with com- commercial purposes into several types, and thus showcase some interesting cases to validate our classification.
+    Online Social Networks (OSNs) like Twitter, Flickr and YouTube have become increasingly popular. Many users might make use of OSNs to attain their commercial or malicious purposes. In this paper, we focus on analyzing URL links contained in user contents, and thus attempt to understand user behaviors.
+   
+   
+ Social Informatics - 8th International Conference, SocInfo 2016, Bellevue, WA, USA, November 11-14, 2016, Proceedings, Part I
+
+7. On URL Changes and Handovers in Social Media
+    Social media sites (e.g. Twitter and Pinterest) allow users to change the name of their accounts. This results in a change in the URL of the user's homepage. We identify various types of URL changes such as handover, exchange, serial handover and loop exchange. Handover events are strongly associated with reusable internal links and successful avoidance of suspension by the host site.
+LIMITATIONS:
+
+Almost all the papers in the list had one thing common - MALICIOUSNESS. That is, the shortenned URL has the malicious links embedded in it. This may cause any Anonymous script to install into our system and thereby destroying our Device Software.
+Another thing that few of the papers had in common were the PHISHING attacks. Anyone in the modern world is capable of phishing the Passwords or Accounts out using these Shortened URLs. This way, not only the device, but also the online accounts may become endangered. And this may cause more Personal Data to be available to the Public.
+This point is not of much importance, nor is it present in any of the Papers. This issue is about sharing the URLs on TWITTER or PINTEREST. This has to change, since they have a limited number of words to be typed in the post. The solution to it might be the one applied by LINKEDIN. The LINKEDIN backend generated its own auto-generated URL for Posting purposes only.
+
+
+CONCLUSION
+
+Due to rising Malicious Software and Phishing attacks, every Organisation can be under breach of a CYBER-ATTACK. So, we propose secure URL Shorting service that the User will Trust more in terms of Security and Confidentiality.This will be a new URL generator and will have no relation between the entered URL and new Short URL. The user can use his/her own secret Passcode to change the entered URL.
